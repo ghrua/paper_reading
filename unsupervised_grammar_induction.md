@@ -42,3 +42,9 @@
 + Conference: EMNLP2019
 + Summarization:
 + Weakness:
+
+&#x1F4D8; **PaLM: A Hybrid Parser and Language Model**
+
++ Conference: EMNLP2019
++ Summarization:
++ Weakness:
